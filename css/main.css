@@ -48,6 +48,32 @@ $black			: #222;
 /* =================================== */
 /*  Basic Style 
 /* =================================== */
+
+#home{
+  cursor:pointer;
+  color: #8490ff;
+}
+
+#about{
+  cursor:pointer;
+  color: #8490ff;
+}
+
+#character{
+  cursor:pointer;
+  color: #8490ff;
+}
+
+#game{
+  cursor:pointer;
+  color: #8490ff;
+}
+
+#team{
+  cursor:pointer;
+  color: #8490ff;
+}
+
 ::-moz-selection {
   /* Code for Firefox */
   background-color: #8490ff;

@@ -49,6 +49,11 @@ $black			: #222;
 /*  Basic Style 
 /* =================================== */
 
+#poster{
+  height: 100%;
+  width: 75%;
+}
+
 #home{
   cursor:pointer;
   color: #8490ff;

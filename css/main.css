@@ -4514,7 +4514,9 @@ dl.accordion.time-line:before {
 }
 
 #usclogo{
-  padding-top: 25px;
+  height: 80%;
+  width: 85%;
+  padding-top: 20px;
 }
 
 /*-------- end footer Area -------------*/
